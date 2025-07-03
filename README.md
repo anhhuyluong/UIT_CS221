@@ -18,6 +18,11 @@
 | `Amazon_Final_NB_TFIDF.ipynb`       | Huấn luyện mô hình Multinomial Naive Bayes với TF-IDF.             |
 | `Amazon_Final_SVM_TFIDF.ipynb`      | Huấn luyện mô hình SVM (LinearSVC) với TF-IDF.                      |
 
+## Quá trình chạy các file
+1. Chạy file EDA_and_Statistics để có được hai file train và test dưới định dạng csv
+2. Sau khi có được hai file csv, chạy file Final_Processing để tạo ra hai file csv đã được làm sạch (Sử dụng thư viện TextBlob nên thời gian thực thi khoảng 3 tiếng)
+3. Chạy các file mô hình theo thứ tự tùy ý
+
 ## Thành viên nhóm: 
 | STT    | MSSV          | Họ và Tên              |Vai trò    | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|-------------------------:
@@ -35,6 +40,14 @@ Seaborn
 Logistic Regression
 Multinomial Naive Bayes
 Support Vector Machine (SVC)
+
+## 📊 Kết quả So sánh Mô hình
+* Các độ đo hiển thị là **Weighted Avg** trong classification report
+| Mô hình                     | Accuracy | Precision | Recall | F1-score |
+|----------------------------|----------|-----------|--------|----------|
+| Multinomial Naive Bayes + TF - IDF| 0.70 | 0.71 | 0.70 | 0.70 |
+| Logistic Regression + TF - IDF | 0.74 | 0.71 | 0.74 | 0.72 |
+| SVM + TF - IDF | 0.74 | 0.71 | 0.74 | 0.71 |
 
 ## 📄 Giấy phép
 Đồ án học thuật – Không sử dụng vào mục đích thương mại.
