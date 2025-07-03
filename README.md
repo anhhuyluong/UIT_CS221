@@ -2,7 +2,11 @@
 
 ## 🧠 Giới thiệu
 
-Đồ án này thuộc môn **Xử lý ngôn ngữ tự nhiên - CS221**, nhằm mục tiêu xây dựng hệ thống phân tích cảm xúc (sentiment analysis) trên các đánh giá sản phẩm bằng tiếng Anh trên sàn thương mại điện tử Amazon. Dữ liệu bao gồm hàng nghìn phản hồi người dùng, và mô hình được huấn luyện để phân loại các đánh giá thành các nhãn cảm xúc như **tích cực**, **tiêu cực** hoặc **trung tính**.
+* **Tên môn học**: Xử lý ngôn ngữ tự nhiên - Natural Language Processing
+* **Mã môn học**: CS221 - **Lớp**: CS221.P21
+* **Năm học**: Học kì 2 - Năm học: 2024 - 2025
+* **Giảng viên**: TS. Nguyễn Trọng Chỉnh
+* **Mục tiêu đồ án**: Xây dựng hệ thống phân tích cảm xúc (sentiment analysis) trên các đánh giá sản phẩm bằng tiếng Anh trên sàn thương mại điện tử Amazon. Dữ liệu bao gồm hàng nghìn phản hồi người dùng, và mô hình được huấn luyện để phân loại các đánh giá thành các nhãn cảm xúc như **tích cực**, **tiêu cực** hoặc **trung tính**.
 
 ## 📂 Cấu trúc thư mục
 
