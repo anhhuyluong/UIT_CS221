@@ -43,6 +43,7 @@ Support Vector Machine (SVC)
 
 ## 📊 Kết quả So sánh Mô hình
 * Các độ đo hiển thị là **Weighted Avg** trong classification report
+  
 | Mô hình                     | Accuracy | Precision | Recall | F1-score |
 |----------------------------|----------|-----------|--------|----------|
 | Multinomial Naive Bayes + TF - IDF| 0.70 | 0.71 | 0.70 | 0.70 |
