@@ -18,27 +18,24 @@
 | `Amazon_Final_NB_TFIDF.ipynb`       | Huấn luyện mô hình Multinomial Naive Bayes với TF-IDF.             |
 | `Amazon_Final_SVM_TFIDF.ipynb`      | Huấn luyện mô hình SVM (LinearSVC) với TF-IDF.                      |
 
-### 🛠️ Công nghệ và thư viện
+## Thành viên nhóm: 
+| STT    | MSSV          | Họ và Tên              |Vai trò    | Email                   |
+| ------ |:-------------:| ----------------------:|----------:|-------------------------:
+| 1      |22520550|Lương Anh Huy|Trưởng nhóm| 22520550@gm.uit.edu.vn|
+| 2      |22520967|Hồng Khải Nguyên|Thành viên| 22520967@gm.uit.edu.vn|
+
+## 🛠️ Công nghệ và thư viện
 Python 3.x
-
 NLTK
-
 TextBlob
-
 Scikit-learn
-
 Pandas
-
 Matplotlib
-
 Seaborn
-
 Logistic Regression
-
 Multinomial Naive Bayes
-
 Support Vector Machine (SVC)
 
-#### 📄 Giấy phép
+## 📄 Giấy phép
 Đồ án học thuật – Không sử dụng vào mục đích thương mại.
 © 2025 - Trường Đại học Công nghệ thông tin.
